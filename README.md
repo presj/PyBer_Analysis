@@ -19,6 +19,8 @@ A multiple-line chart (below) reflects total fares from January 1, 2019 to April
 Summary
 
 Because rural cities account for the least number of rides and fares among all city types, but their average fare per ride is the highest, development of a marketing plan to increase ridership in this area is recommended.
+
 Urban fare revenue in the January through April period peaks at multiple times, but decreases sharply at the end of April.  It is recommended that PyBer conduct an assessment to determine the possible reason for this and developing strategies for duplication and improvement.
+
 It is recommended that Pyber find opportunities to engage the public to gather information about its service to the public related to accessibility and affordability.  Possible methods include surveys distributed to existing riders, community forums, and driver feedback.
 
